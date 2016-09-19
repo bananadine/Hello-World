@@ -702,7 +702,7 @@
       <workItem from="1474284258844" duration="692000" />
       <workItem from="1474285716153" duration="187000" />
       <workItem from="1474285972098" duration="307000" />
-      <workItem from="1474288888255" duration="438000" />
+      <workItem from="1474288888255" duration="542000" />
     </task>
     <task id="LOCAL-00001" summary="New package created.">
       <created>1474284787305</created>
@@ -722,10 +722,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1624000" />
+    <option name="totallyTimeSpent" value="1728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1918" height="1032" extended-state="0" />
+    <frame x="1" y="0" width="1918" height="1032" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
