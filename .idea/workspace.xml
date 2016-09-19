@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6ffba73-5c59-477b-9afe-d58bf766cb0b" name="Default" comment="">
+    <list default="true" id="c6ffba73-5c59-477b-9afe-d58bf766cb0b" name="Default" comment="New package created.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -667,7 +667,7 @@
       <updated>1474283281329</updated>
       <workItem from="1474284258844" duration="692000" />
       <workItem from="1474285716153" duration="187000" />
-      <workItem from="1474285972098" duration="188000" />
+      <workItem from="1474285972098" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="New package created.">
       <created>1474284787305</created>
@@ -676,11 +676,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474284787305</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New package created.">
+      <created>1474286203741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1474286203741</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1067000" />
+    <option name="totallyTimeSpent" value="1186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1050" extended-state="0" />
